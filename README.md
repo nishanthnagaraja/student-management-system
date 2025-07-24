@@ -48,7 +48,7 @@ src
 
 ## 🔧 Setup Instructions
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Java 17+
 - MySQL installed and running
@@ -58,7 +58,6 @@ src
 ### 📝 Steps
 
 1.Clone the Repository 
-   ```bash
    git clone https://github.com/nishanthnagaraja/student-management-system.git
    cd student-management-system
 
